@@ -25,7 +25,6 @@ A.B 2.OR gate The OR gate is an electronic circuit that gives a high output (1) 
 or more of its inputs are high. A plus (+) is used to show the OR operation. Y= A+B
  
 
-## Logic Diagram
 ## Procedure
 
 1.Create a project with required entities. 2.Create a module along with respective file
